@@ -1,6 +1,1 @@
-# test12
-2
-2
-2
-2
-add aadd aadd aadd aadd a
+github 사용법 테스트를 위한 저장소입니다
